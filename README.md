@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hung Sinh</h1>
 
-- 🌱 I’m currently learning **Vite, React**
+- 🌱 I’m currently learning **Web3, NextJS 16 and NestJS**
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **monternsh@gmail.com**
+- 📫 How to reach me **hungsinhnguyen2k4@gmail.com**
 
 - ⚡ Fun fact **funny**
 
