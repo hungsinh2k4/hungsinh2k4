@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  Passionate about building modern web applications with clean architecture and great user experiences.
+  Passionate about building modern web applications with clean architecture and exceptional user experiences.
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **Web3, Next.js 16, and NestJS**
-- 💻 Interested in **Full-Stack Development**
+- 💻 Focused on **Full-Stack Development**
 - 💬 Ask me about **React, Next.js, Node.js**
 - 📫 Reach me at **hungsinhnguyen2k4@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code ☕**
@@ -25,13 +25,13 @@
 
 <p align="left">
   <a href="https://fb.com/hungcn1.uet" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/hunghakai04" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:hungsinhnguyen2k4@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -75,11 +75,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hungsinh2k4&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=hungsinh2k4&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungsinh2k4&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungsinh2k4&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
     height="180"
   />
 </p>
